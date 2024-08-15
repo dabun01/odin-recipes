@@ -1,1 +1,2 @@
 # odin-recipes
+This project is a review for my HTML skills. I will be building a recipes website that will be the foundation of my skills in the future. I will be able to have a good grasp of HTML after I complete this project. This is the start of my journey in the Odin Project
