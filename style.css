@@ -1,0 +1,30 @@
+*{
+    background-color: bisque;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+
+h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: x-large;
+}
+
+li, p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+}
+
+/* Classes */
+
+.button{
+    color: black;
+    background-color: white;
+    border-radius: 5px;
+    border-color: black;
+    border-width: 15px;
+    padding: 10px;
+}
+
