@@ -1,6 +1,7 @@
 *{
-    background-color: bisque;
+    /* background-color: white; */
     box-sizing: border-box;
+    margin: 0;
 }
 
 html{
@@ -26,15 +27,17 @@ li, p{
 
 /* Navbar */
 .navbar{
-    background-color: white;
+    background-color: black;
     overflow: hidden;
+    padding: 1rem;
     margin: -1.5rem;
     margin-bottom: 2rem;
 }
 
 a{
-    color: black;
-    background-color: white;
+    color: white;
+    background-color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
     padding: 1rem;
     margin-left: .5rem;
     display: inline-block;
@@ -53,6 +56,31 @@ a:hover{
     border-color: black;
     border-width: 15px;
     padding: 10px;
+}
+.select{
+    margin-top: 3rem;
+}
+
+.select .child{
+    display: inline-block;
+    padding: 2rem;
+    margin-left: 6rem;
+    margin-bottom: 1rem;
+    background-color: rgba(98, 133, 98, 0.776);
+}
+
+h2{
+    padding-bottom: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.child img{
+    padding-bottom: 10px;
+}
+
+.child a{
+    margin-top: 1rem;
+    margin-left: 7.5rem;
 }
 
 
