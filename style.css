@@ -4,7 +4,7 @@
     margin: 0;
 }
 
-html{
+.margin{
     margin: 1rem;
 }
 
@@ -30,7 +30,6 @@ li, p{
     background-color: black;
     overflow: hidden;
     padding: 1rem;
-    margin: -1.5rem;
     margin-bottom: 2rem;
 }
 
@@ -81,6 +80,14 @@ h2{
 .child a{
     margin-top: 1rem;
     margin-left: 7.5rem;
+}
+
+footer{
+    color: white;
+    background-color: black;
+    margin: 0;
+    padding: .5rem;
+    margin-top: 5.5rem;
 }
 
 
